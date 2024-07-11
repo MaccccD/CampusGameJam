@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Projectile
+  - Player Projectile Spawn Point
+  - Npc
+  - Player Cam Target
+  - Enemy
+  - Health
+  - Damage
+  - Ammo
   layers:
   - Default
   - TransparentFX
